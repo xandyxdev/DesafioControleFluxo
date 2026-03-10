@@ -1,0 +1,2 @@
+class ParametrosInvalidosException extends Exception {
+}
